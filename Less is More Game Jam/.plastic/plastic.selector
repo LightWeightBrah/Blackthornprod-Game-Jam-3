@@ -1,0 +1,4 @@
+repository "Less is More Game Jam@KapitanJuliusz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
